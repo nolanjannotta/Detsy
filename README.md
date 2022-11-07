@@ -7,3 +7,5 @@ Smart contract(s). Soon she will be able to deploy a smart contract that she own
 More details to come...
 
 TODO: all of it
+
+the name is extremely temporary. for now it stands for decentralized etsy, which is lame. 
